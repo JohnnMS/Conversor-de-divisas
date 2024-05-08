@@ -39,37 +39,43 @@ ofrece control de errores, control del tipo de dato ingresado e interfaz detalla
 
 - Menú principal:
 
-![MenuPpal](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/e9f9ba85-0b03-4775-b8ed-576281e2dfa1)
+![image](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/22c16a64-2b2b-4abb-bdb0-00fae0bcce10)
 
 - Opción 4: Si el usuario no conoce de antemano los códigos de las divisas con las cuales va a operar, la aplicación le ofrece 
 la opción de buscar dentro de un listado completo de divisas. Estas divisas se organizan por código y nombre en orden alfabético. 
 
-![Opción 4, Consulta Códigos de divisas](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/ed6c039f-6c06-49cf-b932-c112e755b950)
+![image](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/546957f8-5760-40e6-bdce-b84d2b7d1955)
 
 - Opción 1: Antes de realizar una conversión de divisa, es habitual también consultar la tasa de cambio vigente. El usuario
 ingresa el código de la divisa y se le muestra el listado completo de tasas de cambio para la divisa consultada, también en
 orden alfabético de izquierda a derecha dentro de la tabla.
 
-![Opción 1, Consulta Tasas de cambio](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/99be46b6-2104-42ae-8058-6aac91f1bbaa)
+![image](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/408a8e9c-b6d5-412b-9826-3538dde0f880)
 
 - Opción 2: Con los datos suficientes de código de divisas y monto, se procede a usar el módulo de conversión. Cada conversión,
 sin observaciones y aprobada por el usuario, se guarda en el historial de conversiones.
 
-![Opción 2, Conversiones](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/36c25693-50b4-4d31-b879-6c35b077e5e3)
+![image](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/4e8329ab-53c2-4bc9-9b48-f9b752b922fc)
 
-![Opción 2, Conversiones resultados](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/4f2d02b0-b9fa-4c36-a57d-1b5183bae69a)
+![image](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/854002b5-04f9-4392-9a86-ea34a8b71d7b)
 
 - Opción 3: Presenta el historial completo de conversiones, donde se incluye la fecha y hora de la conversión. Permite al usuario
 borrar ese historial en caso de que lo necesite. El historial se va almacenando en un archivo .txt que se crea automáticamente
 dentro del menú raíz de la aplicación. Este archivo se nombra 'Historial.txt'.
 
-![Opción 3, historial de conversiones](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/e1e43072-1dde-4916-93a7-a0f2b1f6764d)
+![image](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/421c4dd5-ad69-4e77-ad98-f937f9646442)
 
 ### Acceso al proyecto
 La aplicación principal se aloja e la ruta .../currency_exchange/src/App/App.java
 
 ### Licencia
-La aplicación no requiere licencias para su uso. Los desarrolladores de la API ofrecen un plan gratuito de 1500 cuotas de uso renovadas al mes.
+La aplicación no requiere licencias para su uso. Los desarrolladores de la API ofrecen un plan gratuito de 1500 cuotas de uso renovadas al mes. Antes de 
+ejecutar el código debe obtener su API Key en el sitio web https://www.exchangerate-api.com/, para luego modificar el siguiente archivo e ingresar su 
+propia API key conservando ambas comillas:
+
+Ruta del archivo: currency_exchange/src/Metodos_Http/API_ExCH.java
+
+![image](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/c89cba82-d206-4c82-9659-06e01f9625a1)
 
 ### Recurso adicional
 Si tiene dudas en cuanto al funcionamiento de la aplicación, dentro del repositorio se incluye un video demostrativo con el uso y pruebas de funcionamiento.
