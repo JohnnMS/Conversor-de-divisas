@@ -80,6 +80,8 @@ Ruta del archivo: currency_exchange/src/Metodos_Http/API_ExCH.java
 ### Recurso adicional
 Si tiene dudas en cuanto al funcionamiento de la aplicación, dentro del repositorio se incluye un video demostrativo con el uso y pruebas de funcionamiento.
 
+[![Alt text](https://img.youtube.com/vi/Uf2auhgMP3Q/0.jpg)](https://www.youtube.com/watch?v=Uf2auhgMP3Q)
+
 https://youtu.be/Uf2auhgMP3Q
 
 ### Autor
