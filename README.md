@@ -69,7 +69,14 @@ dentro del menú raíz de la aplicación. Este archivo se nombra 'Historial.txt'
 La aplicación principal se aloja e la ruta .../currency_exchange/src/App/App.java
 
 ### Licencia
-La aplicación no requiere licencias para su uso. Los desarrolladores de la API ofrecen un plan gratuito de 1500 cuotas de uso renovadas al mes. Antes de 
+
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+
+## Licencias de Dependencias
+
+Este proyecto utiliza las siguientes bibliotecas y frameworks, cada uno con sus respectivas licencias:
+- **JDK de Java 17**: Disponible bajo la [Licencia Pública General de GNU, versión 2, con la excepción de la clase de biblioteca](https://openjdk.java.net/legal/gplv2+ce.html).
+- **Exchangerate API**: Los desarrolladores de la API ofrecen un plan gratuito de 1500 cuotas de uso renovadas al mes. Antes de 
 ejecutar el código debe obtener su API Key en el sitio web https://www.exchangerate-api.com/, para luego modificar el siguiente archivo e ingresar su 
 propia API key conservando ambas comillas:
 
