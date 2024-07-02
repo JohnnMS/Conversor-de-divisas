@@ -68,11 +68,11 @@ dentro del menú raíz de la aplicación. Este archivo se nombra 'Historial.txt'
 ### Acceso al proyecto
 La aplicación principal se aloja e la ruta .../currency_exchange/src/App/App.java
 
-### Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## Licencias de Dependencias
+### Licencias de Dependencias
 
 Este proyecto utiliza las siguientes bibliotecas y frameworks, cada uno con sus respectivas licencias:
 - **JDK de Java 17**: Disponible bajo la [Licencia Pública General de GNU, versión 2, con la excepción de la clase de biblioteca](https://openjdk.java.net/legal/gplv2+ce.html).
