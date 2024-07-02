@@ -79,8 +79,6 @@ Ruta del archivo: currency_exchange/src/Metodos_Http/API_ExCH.java
 
 ### Demo
 
-[![Alt text](https://img.youtube.com/vi/Uf2auhgMP3Q/0.jpg)](https://www.youtube.com/watch?v=Uf2auhgMP3Q)
-
 https://youtu.be/Uf2auhgMP3Q
 
 ### Autor
