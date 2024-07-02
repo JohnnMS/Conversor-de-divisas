@@ -77,8 +77,7 @@ Ruta del archivo: currency_exchange/src/Metodos_Http/API_ExCH.java
 
 ![image](https://github.com/JohnnMS/Conversor-de-divisas/assets/99614055/c89cba82-d206-4c82-9659-06e01f9625a1)
 
-### Recurso adicional
-Si tiene dudas en cuanto al funcionamiento de la aplicación, dentro del repositorio se incluye un video demostrativo con el uso y pruebas de funcionamiento.
+### Demo
 
 [![Alt text](https://img.youtube.com/vi/Uf2auhgMP3Q/0.jpg)](https://www.youtube.com/watch?v=Uf2auhgMP3Q)
 
