@@ -1,6 +1,12 @@
 # CHALLENGE 2: Conversor de divisas. 💰​📊
 
-Versión final -1.0- del segundo challenge desarrollado en el proceso de formación con Alura LATAM & Oracle Next Education.
+Segundo challenge desarrollado en el proceso de formación con Alura LATAM & Oracle Next Education.<br>
+
+![Static Badge](https://img.shields.io/badge/Build-Passing-brightgreen?logo=oracle&logoColor=white&logoSize=auto&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/Language-Java-%23D21404?logoColor=white&logoSize=auto&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/Latest-v1.0.0-blue?logoColor=white&logoSize=auto&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/License-MIT-%23ED7117?logoColor=white&logoSize=auto&labelColor=grey)
+
 
 ## DESCRIPCIÓN.
 El Conversor de Divisas es una herramienta diseñada para facilitar la conversión entre diferentes monedas de forma rápida 
